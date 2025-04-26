@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tugas 2</string>
+
+    <string name="title_hero">Hero</string>
+    <string name="title_class">Class</string>
+    <string name="title_item">Item</string>
+    <string name="title_stats">Stats</string>
+    
+    <string name="label_name">Character Name</string>
+    <string name="label_hero">Hero</string>
+    <string name="label_class">Class</string>
+    <string name="label_item">Item</string>
+    <string name="label_total_bp">Battle Power</string>
+    
+    <string name="input_name">Character Name</string>
+    <string name="placeholder_input_name">Enter your character name</string>
+
+    <string name="check_result">CHECK RESULT</string>
+
+    <!--  HERO & CLASSES  -->
+    <string name="hero_warrior">Warrior</string>
+    <string name="hero_archer">Archer</string>
+    <string name="hero_mage">Mage</string>
+
+    <string name="class_warrior_champion">Champion</string>
+    <string name="class_warrior_paladin">Paladin</string>
+    <string name="class_archer_hunter">Hunter</string>
+    <string name="class_archer_sniper">Sniper</string>
+    <string name="class_mage_wizard">Wizard</string>
+    <string name="class_mage_sorcerer">Sorcerer</string>
+
+    <!--  ITEM  -->
+    <string name="item_attack">Attack Box</string>
+    <string name="item_defense">Defense Box</string>
+    <string name="item_aspd">ASPD Box</string>
+    <string name="item_hp">HP Box</string>
+</resources>
